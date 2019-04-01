@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "dev": "next",
+    "now-build": "next build"
+  },
+  "dependencies": {
+    "@moltin/sdk": "^3.19.0",
+    "next": "^8.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
